@@ -1,0 +1,73 @@
+[
+    {
+       "model": "planttrackerapi.plant",
+       "pk": 1,
+       "fields": {
+         "name": "Monstera Deliciosa",
+         "nickname": "",
+         "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monstera_deliciosa3.jpg/800px-Monstera_deliciosa3.jpg",
+         "water_freq": 3,
+         "fert_freq": 5,
+         "sunlight": 3,
+         "note": "Monstera Deliciosa, often referred to as the Swiss Cheese Plant, is a popular indoor plant known for its vibrant, variegated leaves. It requires medium sunlight and should be watered once a week. Fertilize once a month with a balanced liquid fertilizer. This plant is known for its resilience and can thrive in a variety of conditions, making it a great choice for beginners.",
+         "user": 1
+       }
+    },
+    {
+       "model": "planttrackerapi.plant",
+       "pk": 2,
+       "fields": {
+         "name": "White Bird of Paradise",
+         "nickname": "Birdie",
+         "photo_url": "",
+         "water_freq": 5,
+         "fert_freq": 5,
+         "sunlight": 6,
+         "note": "The White Bird of Paradise, also known as Strelitzia nicolai, is a stunning tropical plant native to South Africa. It thrives in bright, indirect sunlight and requires watering when the top inch of soil feels dry. Use a well-draining potting mix with perlite or sand to ensure proper drainage and prevent waterlogging, as this can lead to root rot. Fertilize your White Bird of Paradise every 4-6 weeks during the growing season with a balanced liquid fertilizer diluted to half strength. Keep the plant away from drafts and cold temperatures, as it prefers warm, humid environments. Propagate through division of mature clumps or by seeds, although seeds may take several years to produce flowers.",
+         "user": 1
+       }
+    },
+    {
+       "model": "planttrackerapi.plant",
+       "pk": 3,
+       "fields": {
+         "name": "Crown of Thorns",
+         "nickname": "",
+         "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Euphorbia_milii_Prague_2011_1.jpg/1920px-Euphorbia_milii_Prague_2011_1.jpg",
+         "water_freq": 3,
+         "fert_freq": 5,
+         "sunlight": 3,
+         "note": "The Crown of Thorns, scientifically known as Euphorbia milii, is a resilient plant that can handle medium sunlight. It requires watering once a week and fertilization once a month. This plant is known for its unique, spiky leaves and is often used as a houseplant due to its low maintenance needs.",
+         "user": 1
+       }
+    },
+    {
+       "model": "planttrackerapi.plant",
+       "pk": 4,
+       "fields": {
+         "name": "Aloe Vera",
+         "nickname": "Vera",
+         "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloe_Vera.jpg/1920px-Aloe_Vera.jpg",
+         "water_freq": 1,
+         "fert_freq": 0,
+         "sunlight": 0,
+         "note": "Aloe Vera is a succulent that prefers low light conditions and is rarely watered. It does not require fertilization and is known for its healing properties. This plant is a great choice for those looking for a low-maintenance indoor plant.",
+         "user": 1
+       }
+    },
+    {
+       "model": "planttrackerapi.plant",
+       "pk": 5,
+       "fields": {
+         "name": "Snake Plant",
+         "nickname": "",
+         "photo_url": "",
+         "water_freq": 3,
+         "fert_freq": 5,
+         "sunlight": 0,
+         "note": "The Snake Plant is a low-light plant that requires watering once a week and fertilization once a month. It does not thrive in direct sunlight and is known for its unique, snake-like leaves. This plant is a popular choice for those who enjoy its aesthetic appeal and easy care requirements.",
+         "user": 1
+       }
+    }
+   ]
+   

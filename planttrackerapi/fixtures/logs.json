@@ -1,0 +1,227 @@
+[
+    {
+       "model": "planttrackerapi.log",
+       "pk": 1,
+       "fields": {
+         "plant": 1,
+         "date": "2024-04-29",
+         "type": "water"
+       }
+    },
+    {
+       "model": "planttrackerapi.log",
+       "pk": 2,
+       "fields": {
+         "plant": 1,
+         "date": "2024-04-22",
+         "type": "water"
+       }
+    },
+    {
+       "model": "planttrackerapi.log",
+       "pk": 3,
+       "fields": {
+         "plant": 1,
+         "date": "2024-04-15",
+         "type": "water"
+       }
+    },
+    {
+       "model": "planttrackerapi.log",
+       "pk": 4,
+       "fields": {
+         "plant": 1,
+         "date": "2024-04-08",
+         "type": "water"
+       }
+    },
+    {
+       "model": "planttrackerapi.log",
+       "pk": 5,
+       "fields": {
+         "plant": 1,
+         "date": "2024-04-08",
+         "type": "fertilization"
+       }
+    },
+    {
+        "model": "planttrackerapi.log",
+        "pk": 6,
+        "fields": {
+          "plant": 2,
+          "date": "2024-04-30",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 7,
+        "fields": {
+          "plant": 2,
+          "date": "2024-04-29",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 8,
+        "fields": {
+          "plant": 2,
+          "date": "2024-04-28",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 9,
+        "fields": {
+          "plant": 2,
+          "date": "2024-04-27",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 10,
+        "fields": {
+          "plant": 2,
+          "date": "2024-03-26",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 11,
+        "fields": {
+          "plant": 3,
+          "date": "2024-04-27",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 12,
+        "fields": {
+          "plant": 3,
+          "date": "2024-04-27",
+          "type": "fertilization"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 13,
+        "fields": {
+          "plant": 3,
+          "date": "2024-04-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 14,
+        "fields": {
+          "plant": 3,
+          "date": "2024-04-13",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 15,
+        "fields": {
+          "plant": 3,
+          "date": "2024-04-06",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 16,
+        "fields": {
+          "plant": 4,
+          "date": "2024-04-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 17,
+        "fields": {
+          "plant": 4,
+          "date": "2024-03-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 18,
+        "fields": {
+          "plant": 4,
+          "date": "2024-02-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 19,
+        "fields": {
+          "plant": 4,
+          "date": "2024-01-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 20,
+        "fields": {
+          "plant": 4,
+          "date": "2023-12-20",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 21,
+        "fields": {
+          "plant": 5,
+          "date": "2024-04-26",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 22,
+        "fields": {
+          "plant": 5,
+          "date": "2024-04-19",
+          "type": "fertilization"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 23,
+        "fields": {
+          "plant": 5,
+          "date": "2024-04-19",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 24,
+        "fields": {
+          "plant": 5,
+          "date": "2024-04-12",
+          "type": "water"
+        }
+     },
+     {
+        "model": "planttrackerapi.log",
+        "pk": 25,
+        "fields": {
+          "plant": 5,
+          "date": "2024-04-05",
+          "type": "water"
+        }
+     }
+   ]   

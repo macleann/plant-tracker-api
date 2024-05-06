@@ -1,0 +1,14 @@
+[
+    {
+       "model": "planttrackerapi.userprofile",
+       "pk": 1,
+       "fields": {
+         "user": 1,
+         "profile_image_url": "https://neilmaclean.dev/static/media/me_512.a5c77c2de0e69ffdfc18.png",
+         "zip_code": "37212",
+         "created_on": "2024-05-06T14:39:38.133875-05:00",
+         "modified_on": "2024-05-06T14:39:38.133875-05:00"
+       }
+    }
+]
+   

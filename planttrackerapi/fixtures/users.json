@@ -1,0 +1,18 @@
+[
+    {
+       "model": "auth.user",
+       "pk": 1,
+       "fields": {
+         "password": "pbkdf2_sha256$720000$bv22zH3Ps7BUPNpprBWYcN$z1mIUTuVf4ZUvU5F+cv7XHcKsUPHs132yOkX3gGsAXE=",
+         "last_login": null,
+         "is_superuser": true,
+         "username": "macleann",
+         "first_name": "",
+         "last_name": "",
+         "email": "nbmac13@gmail.com",
+         "is_staff": true,
+         "is_active": true,
+         "date_joined": "2024-05-06T14:39:38.133875-05:00"
+       }
+    }
+]   
