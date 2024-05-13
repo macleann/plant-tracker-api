@@ -65,3 +65,9 @@ def change_profile(request):
 
     serializer = UserProfileSerializer(profile, context={'request': request})
     return Response({'user': serializer.data}, status=status.HTTP_204_NO_CONTENT)
+
+@api_view(['POST'])
+def logout(request):
+    """Handle logout request"""
+    request.user.auth_token.delete()
+    return Response(status=status.HTTP_204_NO_CONTENT)
